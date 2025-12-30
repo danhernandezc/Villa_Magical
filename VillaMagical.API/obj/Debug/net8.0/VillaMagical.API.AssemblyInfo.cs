@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VillaMagical.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50c4b98c45b0319b16e6260f8ef08b67b7ba0ef8")]
 [assembly: System.Reflection.AssemblyProductAttribute("VillaMagical.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VillaMagical.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
