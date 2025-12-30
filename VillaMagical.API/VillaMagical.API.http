@@ -1,0 +1,6 @@
+@VillaMagical.API_HostAddress = http://localhost:5082
+
+GET {{VillaMagical.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
