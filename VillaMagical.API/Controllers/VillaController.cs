@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System.Threading.Tasks;
 using VillaMagical.Application.DTOs;
+using VillaMagical.Application.StaticData;
 
 namespace VillaMagical.API.Controllers
 {
@@ -11,6 +13,12 @@ namespace VillaMagical.API.Controllers
         public VillaController()
         {
             
+        }
+        [HttpGet]
+        public ActionResult<IEnumerable<VillaDto>> GetVillas()
+        {
+         
+            return Ok(VillaStore.VillaList);
         }
 
         [HttpPost]
@@ -25,15 +33,14 @@ namespace VillaMagical.API.Controllers
         [HttpGet("{id:int}")]
         public ActionResult<VillaDto> GetVillaById(int id)
         {
-            var villa = new VillaDto
-            {
-                Id = id,
-                Name = "Luxury Villa",
-                Occupancy = 4,
-                Price = 3500.00m
-            };
+           var firstVilla =  VillaStore.VillaList.FirstOrDefault(x => x.Id == id);
 
-            return Ok(villa);
+            if (firstVilla is null)
+            {
+                return NotFound();
+            }
+
+            return Ok(firstVilla);
         }
 
     }

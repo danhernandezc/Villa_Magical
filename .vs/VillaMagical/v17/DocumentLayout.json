@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Development_Projects\\VillaMagical\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{676361E3-3047-4206-AECE-8B3473E113B3}|VillaMagical.Domain\\VillaMagical.Domain.csproj|c:\\development_projects\\villamagical\\villamagical.domain\\villamagical.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{676361E3-3047-4206-AECE-8B3473E113B3}|VillaMagical.Domain\\VillaMagical.Domain.csproj|solutionrelative:villamagical.domain\\villamagical.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{6BB28724-450D-4D39-8BCB-B959548097C5}|VillaMagical.API\\VillaMagical.API.csproj|c:\\development_projects\\villamagical\\villamagical.api\\controllers\\villacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB28724-450D-4D39-8BCB-B959548097C5}|VillaMagical.API\\VillaMagical.API.csproj|solutionrelative:villamagical.api\\controllers\\villacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C80AF82B-F6A0-4090-AA0F-BE544DCDA89C}|VillaMagical.Application\\VillaMagical.Application.csproj|c:\\development_projects\\villamagical\\villamagical.application\\villamagical.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C80AF82B-F6A0-4090-AA0F-BE544DCDA89C}|VillaMagical.Application\\VillaMagical.Application.csproj|solutionrelative:villamagical.application\\villamagical.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{C80AF82B-F6A0-4090-AA0F-BE544DCDA89C}|VillaMagical.Application\\VillaMagical.Application.csproj|c:\\development_projects\\villamagical\\villamagical.application\\staticdata\\villastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80AF82B-F6A0-4090-AA0F-BE544DCDA89C}|VillaMagical.Application\\VillaMagical.Application.csproj|solutionrelative:villamagical.application\\staticdata\\villastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BB28724-450D-4D39-8BCB-B959548097C5}|VillaMagical.API\\VillaMagical.API.csproj|c:\\development_projects\\villamagical\\villamagical.api\\villamagical.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6BB28724-450D-4D39-8BCB-B959548097C5}|VillaMagical.API\\VillaMagical.API.csproj|solutionrelative:villamagical.api\\villamagical.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{676361E3-3047-4206-AECE-8B3473E113B3}|VillaMagical.Domain\\VillaMagical.Domain.csproj|c:\\development_projects\\villamagical\\villamagical.domain\\entities\\villa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{676361E3-3047-4206-AECE-8B3473E113B3}|VillaMagical.Domain\\VillaMagical.Domain.csproj|solutionrelative:villamagical.domain\\entities\\villa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80AF82B-F6A0-4090-AA0F-BE544DCDA89C}|VillaMagical.Application\\VillaMagical.Application.csproj|c:\\development_projects\\villamagical\\villamagical.application\\dtos\\villadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80AF82B-F6A0-4090-AA0F-BE544DCDA89C}|VillaMagical.Application\\VillaMagical.Application.csproj|solutionrelative:villamagical.application\\dtos\\villadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80AF82B-F6A0-4090-AA0F-BE544DCDA89C}|VillaMagical.Application\\VillaMagical.Application.csproj|c:\\development_projects\\villamagical\\villamagical.application\\dtos\\villacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80AF82B-F6A0-4090-AA0F-BE544DCDA89C}|VillaMagical.Application\\VillaMagical.Application.csproj|solutionrelative:villamagical.application\\dtos\\villacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80AF82B-F6A0-4090-AA0F-BE544DCDA89C}|VillaMagical.Application\\VillaMagical.Application.csproj|c:\\development_projects\\villamagical\\villamagical.application\\responses\\actionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80AF82B-F6A0-4090-AA0F-BE544DCDA89C}|VillaMagical.Application\\VillaMagical.Application.csproj|solutionrelative:villamagical.application\\responses\\actionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB28724-450D-4D39-8BCB-B959548097C5}|VillaMagical.API\\VillaMagical.API.csproj|c:\\development_projects\\villamagical\\villamagical.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB28724-450D-4D39-8BCB-B959548097C5}|VillaMagical.API\\VillaMagical.API.csproj|solutionrelative:villamagical.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +46,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "VillaMagical.API",
-              "DocumentMoniker": "C:\\Development_Projects\\VillaMagical\\VillaMagical.API\\VillaMagical.API.csproj",
-              "RelativeDocumentMoniker": "VillaMagical.API\\VillaMagical.API.csproj",
-              "ToolTip": "C:\\Development_Projects\\VillaMagical\\VillaMagical.API\\VillaMagical.API.csproj",
-              "RelativeToolTip": "VillaMagical.API\\VillaMagical.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-30T23:50:49.995Z",
+              "DocumentIndex": 1,
+              "Title": "VillaStore.cs",
+              "DocumentMoniker": "C:\\Development_Projects\\VillaMagical\\VillaMagical.Application\\StaticData\\VillaStore.cs",
+              "RelativeDocumentMoniker": "VillaMagical.Application\\StaticData\\VillaStore.cs",
+              "ToolTip": "C:\\Development_Projects\\VillaMagical\\VillaMagical.Application\\StaticData\\VillaStore.cs",
+              "RelativeToolTip": "VillaMagical.Application\\StaticData\\VillaStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T00:21:25.824Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "VillaMagical.Application",
-              "DocumentMoniker": "C:\\Development_Projects\\VillaMagical\\VillaMagical.Application\\VillaMagical.Application.csproj",
-              "RelativeDocumentMoniker": "VillaMagical.Application\\VillaMagical.Application.csproj",
-              "ToolTip": "C:\\Development_Projects\\VillaMagical\\VillaMagical.Application\\VillaMagical.Application.csproj",
-              "RelativeToolTip": "VillaMagical.Application\\VillaMagical.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-30T23:50:40.315Z",
+              "DocumentIndex": 2,
+              "Title": "Villa.cs",
+              "DocumentMoniker": "C:\\Development_Projects\\VillaMagical\\VillaMagical.Domain\\Entities\\Villa.cs",
+              "RelativeDocumentMoniker": "VillaMagical.Domain\\Entities\\Villa.cs",
+              "ToolTip": "C:\\Development_Projects\\VillaMagical\\VillaMagical.Domain\\Entities\\Villa.cs",
+              "RelativeToolTip": "VillaMagical.Domain\\Entities\\Villa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T00:19:38.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VillaDto.cs",
+              "DocumentMoniker": "C:\\Development_Projects\\VillaMagical\\VillaMagical.Application\\DTOs\\VillaDto.cs",
+              "RelativeDocumentMoniker": "VillaMagical.Application\\DTOs\\VillaDto.cs",
+              "ToolTip": "C:\\Development_Projects\\VillaMagical\\VillaMagical.Application\\DTOs\\VillaDto.cs",
+              "RelativeToolTip": "VillaMagical.Application\\DTOs\\VillaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T00:08:43.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VillaCreateDto.cs",
+              "DocumentMoniker": "C:\\Development_Projects\\VillaMagical\\VillaMagical.Application\\DTOs\\VillaCreateDto.cs",
+              "RelativeDocumentMoniker": "VillaMagical.Application\\DTOs\\VillaCreateDto.cs",
+              "ToolTip": "C:\\Development_Projects\\VillaMagical\\VillaMagical.Application\\DTOs\\VillaCreateDto.cs",
+              "RelativeToolTip": "VillaMagical.Application\\DTOs\\VillaCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T00:08:12.339Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "VillaMagical.Domain",
-              "DocumentMoniker": "C:\\Development_Projects\\VillaMagical\\VillaMagical.Domain\\VillaMagical.Domain.csproj",
-              "RelativeDocumentMoniker": "VillaMagical.Domain\\VillaMagical.Domain.csproj",
-              "ToolTip": "C:\\Development_Projects\\VillaMagical\\VillaMagical.Domain\\VillaMagical.Domain.csproj",
-              "RelativeToolTip": "VillaMagical.Domain\\VillaMagical.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-30T23:50:28.297Z",
+              "Title": "VillaController.cs",
+              "DocumentMoniker": "C:\\Development_Projects\\VillaMagical\\VillaMagical.API\\Controllers\\VillaController.cs",
+              "RelativeDocumentMoniker": "VillaMagical.API\\Controllers\\VillaController.cs",
+              "ToolTip": "C:\\Development_Projects\\VillaMagical\\VillaMagical.API\\Controllers\\VillaController.cs",
+              "RelativeToolTip": "VillaMagical.API\\Controllers\\VillaController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwCoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T00:06:08.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ActionResponse.cs",
+              "DocumentMoniker": "C:\\Development_Projects\\VillaMagical\\VillaMagical.Application\\Responses\\ActionResponse.cs",
+              "RelativeDocumentMoniker": "VillaMagical.Application\\Responses\\ActionResponse.cs",
+              "ToolTip": "C:\\Development_Projects\\VillaMagical\\VillaMagical.Application\\Responses\\ActionResponse.cs",
+              "RelativeToolTip": "VillaMagical.Application\\Responses\\ActionResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T00:04:04.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Development_Projects\\VillaMagical\\VillaMagical.API\\Program.cs",
+              "RelativeDocumentMoniker": "VillaMagical.API\\Program.cs",
+              "ToolTip": "C:\\Development_Projects\\VillaMagical\\VillaMagical.API\\Program.cs",
+              "RelativeToolTip": "VillaMagical.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T00:01:33.591Z",
               "EditorCaption": ""
             }
           ]
