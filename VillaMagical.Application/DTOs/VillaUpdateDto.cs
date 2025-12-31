@@ -5,7 +5,7 @@ using VillaMagical.Application.SerializationS;
 
 namespace VillaMagical.Application.DTOs
 {
-    public class VillaDto
+    public class VillaUpdateDto
     {
         public int Id { get; set; }
 
@@ -31,9 +31,11 @@ namespace VillaMagical.Application.DTOs
         [Required]
         public string ImageUrl { get; set; }
 
+
         [Required]
         [DataType(DataType.DateTime)]
         [JsonConverter(typeof(IsoUtcDateTimeConverter))]
+        [DisplayFormat(DataFormatString = "{0:yyyy/MM/dd hh:mm tt}", ApplyFormatInEditMode = true)]
         public DateTime CreatedDate { get; set; } = DateTime.Now;
     }
 }

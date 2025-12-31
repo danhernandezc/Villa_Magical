@@ -1,5 +1,6 @@
 using System.Text.Json.Serialization;
 using VillaMagical.Application.SerializationS;
+using VillaMagical.Infrastructure.DependencyInjection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,10 +14,13 @@ builder.Services.AddControllers()
 
         options.JsonSerializerOptions.Converters.Add(
             new IsoUtcDateTimeConverter());
-    });
+    }).AddNewtonsoftJson();
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+builder.Services.InjectDependencies(builder.Configuration);
 
 var app = builder.Build();
 

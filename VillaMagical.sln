@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VillaMagical.Domain", "Vill
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VillaMagical.Application", "VillaMagical.Application\VillaMagical.Application.csproj", "{C80AF82B-F6A0-4090-AA0F-BE544DCDA89C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VillaMagical.Infrastructure", "VillaMagical.Infrastructure\VillaMagical.Infrastructure.csproj", "{E6D16762-B078-4672-8B72-15C3828444C4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C80AF82B-F6A0-4090-AA0F-BE544DCDA89C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C80AF82B-F6A0-4090-AA0F-BE544DCDA89C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C80AF82B-F6A0-4090-AA0F-BE544DCDA89C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6D16762-B078-4672-8B72-15C3828444C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6D16762-B078-4672-8B72-15C3828444C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6D16762-B078-4672-8B72-15C3828444C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6D16762-B078-4672-8B72-15C3828444C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
