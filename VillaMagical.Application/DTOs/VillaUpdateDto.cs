@@ -37,5 +37,11 @@ namespace VillaMagical.Application.DTOs
         [JsonConverter(typeof(IsoUtcDateTimeConverter))]
         [DisplayFormat(DataFormatString = "{0:yyyy/MM/dd hh:mm tt}", ApplyFormatInEditMode = true)]
         public DateTime CreatedDate { get; set; } = DateTime.Now;
+
+        
+        [DataType(DataType.DateTime)]
+        [JsonConverter(typeof(IsoUtcDateTimeConverter))]
+        [DisplayFormat(DataFormatString = "{0:yyyy/MM/dd hh:mm tt}", ApplyFormatInEditMode = true)]
+        public DateTime UpdatedDate { get; set; }
     }
 }

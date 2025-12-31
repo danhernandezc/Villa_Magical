@@ -83,6 +83,12 @@ namespace VillaMagical.Infrastructure.Persistence
                 entity.Property(e => e.CreatedDate)
                     .HasColumnName("CreatedDate")
                     .IsRequired();
+
+                // =========================
+                // UpdatedDate
+                // =========================
+                entity.Property(e => e.UpdatedDate)
+                    .HasColumnName("UpdatedDate");
             });
 
 
